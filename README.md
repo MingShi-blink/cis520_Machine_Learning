@@ -68,7 +68,7 @@ Datasets and tools:
 
 Note: the linear/ridge regression section still contains `pass` placeholders in the inspected file.
 
-## Homework 3: Clustering, PCA, GMMs, Trees, Ensembles, Boosting, and Autograd
+## Homework 3: Clustering, PCA and GMMs
 
 `HW3.py` covers unsupervised learning, dimensionality reduction, probabilistic models, tree-based models, ensemble methods, boosting, and custom PyTorch autograd functions.
 
@@ -77,10 +77,7 @@ Implemented or partially implemented topics:
 - K-means initialization, assignment, centroid update, and stopping criterion.
 - Feature normalization, PCA fitting, PCA projection, and PCA reconstruction.
 - Gaussian Mixture Model EM steps and negative log-likelihood.
-- Decision tree structure and prediction utilities.
-- Random forest templates.
-- Logistic weak learner and boosting templates.
-- Custom `torch.autograd.Function` examples.
+
 
 Datasets and tools:
 
